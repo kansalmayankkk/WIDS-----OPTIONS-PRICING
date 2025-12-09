@@ -2,7 +2,7 @@
 
 # **Python Basics!**
 
-For all those looking to learn Python from scratch, you can begin with [this notebook]([https://github.com/kansalmayankkk/WIDS-----OPTIONS-PRICING/blob/main/Week-1%20Content/1%20intro_to_python%20(1).ipynb]), then move to the specific libraries. At the same time, those of you who are already familiar with Python and are just looking to revise can go through [this notebook]([https://github.com/kansalmayankkk/WIDS-----OPTIONS-PRICING/blob/main/Week-1%20Content/2%20Python_review.ipynb]).  
+For all those looking to learn Python from scratch, you can begin with [this notebook](https://github.com/kansalmayankkk/WIDS-----OPTIONS-PRICING/blob/main/Week-1%20Content/1%20intro_to_python%20(1).ipynb), then move to the specific libraries. At the same time, those of you who are already familiar with Python and are just looking to revise can go through [this notebook](https://github.com/kansalmayankkk/WIDS-----OPTIONS-PRICING/blob/main/Week-1%20Content/2%20Python_review.ipynb).  
 
 For the first week, we will be covering some basic topics:
 * [Getting Started](#getting-started)
